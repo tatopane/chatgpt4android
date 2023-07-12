@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ChatGPTAndroid" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Splash screen theme. -->
+    <style name="SplashTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/ic_launcher_foreground</item>
+    </style>
+</resources>
